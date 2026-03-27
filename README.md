@@ -4,4 +4,4 @@
 <h5>📫 You can reach me with:</h5>
 
 - 📧 E-mail: sudenurelmas08@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/sdnrelms]([www.linkedin.com/in/sdnrelms](https://www.linkedin.com/in/sdnrelms/))
+- 💼 LinkedIn: [linkedin.com/in/sdnrelms](https://www.linkedin.com/in/sdnrelms/)
